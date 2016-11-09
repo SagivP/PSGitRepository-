@@ -1,10 +1,7 @@
+# Created by https://www.gitignore.io/api/visualstudiocode
 
-
-helllllllllloooooo
-
-
-
-branch dev1
-
-222222 dev
-33333 dev
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
